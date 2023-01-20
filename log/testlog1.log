@@ -1,0 +1,798 @@
+2022-12-08 01:37:09,104 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 01:39:36,500 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 01:41:07,833 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 01:41:07,837 [main] DEBUG FreshiiWebApplication - Chrome
+2022-12-08 01:42:02,186 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 01:42:02,191 [main] DEBUG FreshiiWebApplication - null
+2022-12-08 01:43:01,513 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 01:43:01,520 [main] DEBUG FreshiiWebApplication - null
+2022-12-08 01:43:01,520 [main] DEBUG FreshiiWebApplication - fumino1@kenvanharen.com
+2022-12-08 01:45:08,916 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 01:45:08,926 [main] DEBUG FreshiiWebApplication - null
+2022-12-08 01:45:08,926 [main] DEBUG FreshiiWebApplication - fumino1@kenvanharen.com
+2022-12-08 01:46:49,460 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 01:46:49,465 [main] DEBUG FreshiiWebApplication - null
+2022-12-08 01:46:49,466 [main] DEBUG FreshiiWebApplication - fumino1@kenvanharen.com
+2022-12-08 01:48:54,849 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 01:48:54,856 [main] DEBUG FreshiiWebApplication - ./Drivers/chromedriver.exe
+2022-12-08 01:48:54,856 [main] DEBUG FreshiiWebApplication - fumino1@kenvanharen.com
+2022-12-08 01:49:01,370 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-08 01:50:45,441 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 01:50:51,840 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-08 01:56:37,335 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 01:56:43,862 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-08 02:07:36,132 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 02:07:42,654 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-08 02:11:03,966 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 02:11:10,476 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-08 02:12:20,553 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 02:12:26,854 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-08 02:13:17,064 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 02:13:23,528 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-08 02:18:39,345 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-08 02:18:45,928 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-13 03:13:51,918 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-13 03:13:58,543 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:05:44,147 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:05:50,829 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:10:51,986 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:10:58,603 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:15:36,777 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:15:43,226 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:17:14,996 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:17:21,618 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:20:19,535 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:20:26,023 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:24:06,713 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:24:13,280 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:35:49,636 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:35:56,306 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:36:42,383 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:36:48,901 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:39:01,955 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:39:08,501 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:40:58,461 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:41:05,032 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:44:17,298 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:44:23,814 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:47:14,833 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:47:23,216 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:51:30,993 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:51:37,551 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:52:57,352 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:53:03,752 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:54:43,598 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:54:50,071 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:56:08,661 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:56:15,095 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:57:04,112 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:57:10,581 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:57:46,188 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:57:52,645 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 03:58:43,041 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 03:58:49,610 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 04:02:13,767 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 04:02:20,731 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 04:02:40,365 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 04:02:46,982 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 04:12:50,824 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 04:12:57,844 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 04:14:17,690 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 04:14:25,935 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 04:15:55,636 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 04:16:02,350 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 04:17:04,975 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 04:17:11,422 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-16 04:19:47,725 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-16 04:19:54,231 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:17:01,781 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:17:09,064 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:17:45,031 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:17:51,414 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:19:16,403 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:19:23,046 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:26:46,047 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:26:52,609 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:27:44,682 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:27:51,109 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:29:07,854 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:29:14,214 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:32:05,826 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:32:12,383 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:34:47,314 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:34:53,788 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:36:40,770 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:36:47,266 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:39:31,588 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:39:38,185 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:45:30,913 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:45:38,019 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:46:32,079 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:46:39,195 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:48:37,736 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:48:44,978 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 04:50:46,566 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 04:50:53,079 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 05:49:03,535 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 05:49:10,462 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 05:51:03,196 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 05:51:09,639 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 05:52:13,069 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 05:52:19,500 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 05:56:27,159 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 05:56:33,870 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 05:57:31,295 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 05:57:37,989 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 06:01:15,659 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 06:01:22,245 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 06:09:22,994 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 06:09:29,539 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 06:11:16,555 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 06:11:23,095 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 06:13:48,030 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 06:13:54,713 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 06:18:22,389 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 06:18:28,986 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 06:22:27,139 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 06:22:33,623 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 06:27:52,060 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 06:27:58,794 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 06:32:15,326 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 06:32:21,980 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 06:33:07,487 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 06:33:14,113 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 20:32:46,615 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 20:32:53,246 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-21 20:39:29,179 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-21 20:39:35,917 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-23 16:45:22,233 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-23 16:45:29,057 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-23 16:47:47,042 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-23 16:47:53,500 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-23 16:54:07,462 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-23 16:54:15,152 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-23 23:34:21,320 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-23 23:34:27,821 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 00:10:48,517 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 00:10:55,170 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 00:11:46,360 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 00:11:52,834 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 00:12:54,329 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 00:13:00,854 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 00:15:46,980 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 00:15:53,452 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 00:18:01,213 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 00:18:07,777 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 02:39:55,005 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 02:40:01,661 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 02:42:44,124 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 02:42:50,515 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 02:43:39,481 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 02:43:46,046 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 02:49:20,127 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 02:49:26,561 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 02:54:07,897 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 02:54:14,411 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 02:55:35,307 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 02:55:41,775 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 02:56:51,453 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 02:56:58,837 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 02:58:01,652 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 02:58:08,056 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:01:02,537 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:01:09,050 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:01:44,349 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:01:50,946 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:02:58,883 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:03:05,403 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:06:51,201 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:06:57,679 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:16:42,187 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:16:49,014 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:17:56,536 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:18:03,048 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:18:26,839 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:18:33,476 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:20:16,546 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:20:23,125 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:23:08,640 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:23:15,256 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:25:54,394 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:26:00,985 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:27:42,378 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:27:49,599 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:34:33,377 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:34:40,793 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:35:58,263 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:36:05,289 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:37:30,577 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:37:37,035 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:42:05,395 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:42:13,076 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:43:51,246 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:43:59,711 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:48:46,530 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:48:53,059 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:50:13,789 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:50:20,491 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:52:25,263 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:52:31,848 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:54:03,082 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:54:10,995 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 03:58:31,054 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 03:58:37,626 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 04:03:59,833 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 04:04:06,883 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 04:07:30,757 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 04:07:37,370 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 04:10:44,174 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 04:10:50,648 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 04:12:54,709 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 04:13:01,172 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-24 04:14:30,839 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-24 04:14:38,315 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-28 01:55:50,950 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-28 01:55:57,799 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-28 02:53:49,893 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-28 02:53:56,580 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-28 02:55:14,293 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-28 02:55:21,087 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-28 02:56:29,272 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-28 02:56:35,770 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-28 02:58:58,480 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-28 02:59:05,068 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-28 02:59:53,057 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-28 02:59:59,500 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-28 03:01:45,618 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-28 03:01:52,293 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-28 03:04:04,100 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-28 03:04:10,662 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:23:48,779 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:23:55,677 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:25:49,999 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:25:56,538 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:26:42,989 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:26:49,392 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:29:21,378 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:29:27,873 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:31:11,165 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:31:17,702 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:32:48,542 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:32:55,174 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:34:10,131 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:34:16,557 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:36:01,253 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:36:07,891 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:37:06,020 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:37:12,502 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:38:43,544 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:38:49,982 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:44:59,037 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:45:05,661 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:46:42,210 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:46:48,839 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:49:34,406 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:49:40,967 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:53:29,065 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:53:35,897 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:56:52,141 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:56:58,687 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:58:37,123 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 02:58:43,576 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 02:59:58,634 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 03:00:05,293 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 05:10:34,594 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 05:10:41,318 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 05:11:20,154 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 05:11:26,694 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-29 05:14:34,437 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-29 05:14:42,086 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:00:11,656 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 18:00:18,530 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:00:22,774 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 18:05:25,536 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 18:05:32,224 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:05:36,445 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 18:10:21,815 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 18:10:28,868 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:10:33,068 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 18:12:21,618 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 18:12:28,126 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:12:32,358 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 18:13:23,696 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 18:13:30,152 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:13:34,366 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 18:14:19,581 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 18:14:26,268 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:14:30,465 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 18:16:59,543 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 18:17:06,113 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:17:10,338 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 18:20:58,125 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 18:21:05,683 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:21:09,908 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 18:41:09,638 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 18:41:16,304 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:41:20,539 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 18:41:34,541 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2022-12-30 18:46:14,721 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 18:46:21,333 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 18:46:25,520 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 18:46:39,027 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2022-12-30 20:11:46,469 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 20:11:53,213 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 20:11:57,435 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 20:12:10,799 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2022-12-30 20:13:26,834 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2022-12-30 20:13:33,387 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2022-12-30 20:13:37,586 [main] INFO FreshiiWebApplication - Started FWA_036
+2022-12-30 20:13:51,436 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:15:36,519 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:15:43,347 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:15:47,548 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:16:00,577 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:18:00,904 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:18:07,456 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:18:11,665 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:18:25,088 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:19:49,843 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:19:56,444 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:20:00,618 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:20:13,883 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:21:23,485 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:21:31,357 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:21:35,578 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:21:49,896 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:22:56,363 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:23:04,361 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:23:08,582 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:23:24,472 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:29:28,081 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:29:34,999 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:29:39,186 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:29:53,030 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:31:23,338 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:31:30,348 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:31:34,545 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:31:47,670 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:45:46,007 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:45:52,563 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:45:56,763 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:46:10,248 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:47:18,362 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:47:24,870 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:47:29,071 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:47:43,122 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:48:44,294 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:48:50,907 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:48:55,102 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:49:08,074 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 13:50:15,385 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 13:50:21,974 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 13:50:26,160 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-03 13:50:38,952 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-03 18:33:51,190 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 18:33:57,999 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 18:39:11,671 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 18:39:18,776 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 18:58:59,771 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 18:59:06,676 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 19:00:39,793 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:00:46,370 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 19:01:24,604 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:01:31,550 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 19:02:23,253 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:02:29,951 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 19:03:19,923 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:03:26,370 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 19:06:44,395 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:06:51,162 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 19:08:20,814 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:08:27,372 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 19:23:45,597 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:24:04,741 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:24:11,779 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 19:24:50,304 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:24:57,119 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 19:26:43,125 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:26:49,618 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-03 19:27:33,042 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-03 19:27:39,837 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:21:56,968 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:22:04,464 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:22:53,750 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:23:01,344 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:23:27,159 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:23:35,720 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:24:58,318 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:25:05,846 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:36:04,429 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:36:11,769 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:53:34,707 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:53:42,073 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:55:13,379 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:55:21,211 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:56:19,644 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:56:27,034 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:57:56,476 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:58:03,831 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:58:33,670 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:58:41,007 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 17:59:25,783 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 17:59:33,555 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:01:06,561 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:01:13,867 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:04:45,835 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:04:53,877 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:07:10,104 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:07:17,404 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:08:07,446 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:08:14,734 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:11:37,745 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:11:45,067 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:15:02,673 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:15:09,960 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:16:03,529 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:16:11,279 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:18:11,176 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:18:18,985 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:19:43,777 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:19:51,079 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:21:21,439 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:21:28,800 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:21:33,032 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-06 18:22:32,888 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:22:40,103 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:22:44,302 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-06 18:25:40,237 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:25:47,535 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:25:51,740 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-06 18:26:39,060 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:26:46,324 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:26:50,520 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-06 18:27:53,000 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:28:00,755 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:31:04,174 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:31:12,069 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:31:16,246 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-06 18:31:37,227 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:31:45,478 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:31:49,689 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-06 18:32:51,301 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:32:59,195 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:33:03,438 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-06 18:39:25,639 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:39:34,021 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:40:29,719 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:40:38,951 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:42:06,086 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:42:14,112 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:42:18,321 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-06 18:42:43,298 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:42:50,912 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:42:55,103 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-06 18:43:35,803 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:43:43,993 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:43:48,230 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-06 18:48:34,690 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:48:42,071 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-06 18:49:31,051 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-06 18:49:38,369 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:42:58,610 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 18:43:05,448 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:43:40,222 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 18:43:46,864 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:45:49,117 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 18:45:55,813 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:47:37,532 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 18:47:44,132 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:50:03,700 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 18:50:11,223 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:52:33,795 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 18:52:42,353 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:52:46,541 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-07 18:54:14,567 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 18:54:21,305 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:54:25,498 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-07 18:57:13,567 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 18:57:20,590 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:57:24,797 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-07 18:58:20,586 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 18:58:28,406 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:58:32,631 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-07 18:59:38,284 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 18:59:46,041 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 18:59:50,265 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-07 19:03:03,204 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-07 19:03:09,844 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-07 19:03:14,060 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-11 02:38:29,039 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 02:38:36,143 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 02:42:44,878 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 02:42:51,385 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 02:46:02,274 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 02:46:08,798 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 02:48:06,423 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 02:48:13,087 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 02:49:30,145 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 02:49:36,775 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 02:50:41,444 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 02:50:47,828 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 02:54:25,766 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 02:54:33,316 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 02:57:14,853 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 02:57:21,521 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:07:51,094 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:07:57,760 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:09:12,402 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:09:18,956 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:10:21,267 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:10:27,979 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:11:05,828 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:11:12,291 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:12:59,148 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:13:05,667 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:14:02,179 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:14:08,727 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:14:54,064 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:15:00,856 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:15:37,961 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:15:44,737 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:18:51,589 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:18:58,192 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:21:07,311 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:21:14,273 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:23:32,664 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:23:39,200 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:24:08,542 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:24:15,005 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:24:19,220 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-11 03:24:19,444 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-11 03:24:19,574 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-11 03:24:19,583 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-11 03:24:19,606 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-11 03:25:07,432 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:25:14,092 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:25:18,300 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-11 03:25:18,533 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-11 03:25:20,692 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-11 03:25:20,698 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-11 03:25:20,722 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-11 03:25:33,222 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-11 03:27:15,168 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:27:22,492 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:27:26,739 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-11 03:27:26,974 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-11 03:27:29,152 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-11 03:27:29,159 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-11 03:27:29,188 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-11 03:27:43,483 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-11 03:29:36,876 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 03:29:44,104 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 03:29:48,312 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-11 03:29:48,541 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-11 03:29:50,696 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-11 03:29:50,701 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-11 03:29:50,729 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-11 03:30:03,970 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-11 19:24:20,002 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 19:24:27,055 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 19:24:31,271 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-11 19:24:31,474 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-11 19:24:33,608 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-11 19:24:33,619 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-11 19:24:33,649 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-11 19:24:46,900 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-11 19:26:26,777 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 19:26:33,392 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 19:26:37,617 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-11 19:26:37,825 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-11 19:26:39,943 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-11 19:26:39,949 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-11 19:26:39,974 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-11 19:26:51,736 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-11 19:36:17,076 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-11 19:36:24,289 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-11 19:36:28,506 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-11 19:36:28,767 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-11 19:36:30,926 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-11 19:36:30,930 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-11 19:36:30,950 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-11 19:36:43,271 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 03:42:36,918 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 03:42:44,009 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 03:42:48,213 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 03:42:48,312 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 03:42:55,410 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 03:42:55,410 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 03:42:55,433 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 03:43:56,327 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 03:44:02,753 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 03:44:06,979 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 03:44:07,167 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 03:44:09,279 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 03:44:09,298 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 03:44:09,321 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 03:44:23,098 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 03:53:33,644 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 03:53:40,296 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 03:53:44,505 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 03:53:44,673 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 03:53:46,784 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 03:53:46,799 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 03:53:46,824 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 03:53:59,717 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 04:03:21,543 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 04:03:28,218 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 04:03:32,418 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 04:03:32,598 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 04:03:34,716 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 04:03:34,733 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 04:03:34,764 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 04:03:47,209 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 04:04:18,902 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 04:04:25,340 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 04:04:29,560 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 04:04:29,747 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 04:04:31,849 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 04:04:31,861 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 04:04:31,891 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 04:04:43,615 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 04:06:18,791 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 04:06:25,276 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 04:06:29,476 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 04:06:29,637 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 04:06:31,737 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 04:06:31,747 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 04:06:31,775 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 04:06:44,136 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 04:08:05,341 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 04:08:12,142 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 04:08:16,357 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 04:08:16,535 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 04:08:18,645 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 04:08:18,661 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 04:08:18,704 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 04:08:30,384 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 04:10:26,671 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 04:10:33,165 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 04:10:37,373 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 04:10:37,561 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 04:10:39,672 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 04:10:39,677 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 04:10:39,710 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 04:10:52,264 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 04:12:01,784 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 04:12:08,338 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 04:12:12,537 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 04:12:12,702 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 04:12:14,800 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 04:12:14,816 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 04:12:14,843 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 04:12:27,295 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 04:14:35,863 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 04:14:42,402 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 04:14:46,610 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 04:14:46,807 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 04:14:48,913 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 04:14:48,917 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 04:14:48,940 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 04:15:01,330 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 04:27:33,772 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 04:27:40,348 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 04:27:44,584 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 04:27:44,796 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 04:27:46,919 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 04:27:46,937 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 04:27:46,965 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 04:28:00,811 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 04:29:16,755 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 04:29:23,230 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 04:29:27,454 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 04:29:27,623 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 04:29:29,721 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 04:29:29,728 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 04:29:29,759 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 04:29:41,606 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 05:04:57,347 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 05:05:03,832 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 05:05:08,037 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 05:05:08,213 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 05:05:10,312 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 05:05:10,330 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 05:05:10,362 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 05:05:22,990 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 05:09:11,164 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 05:09:17,692 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 05:09:21,876 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 05:09:22,034 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 05:09:24,136 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 05:09:24,141 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 05:09:24,165 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 05:09:36,132 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-12 05:15:49,036 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-12 05:15:56,115 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-12 05:16:00,319 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-12 05:16:00,520 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-12 05:16:02,637 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-12 05:16:02,647 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-12 05:16:02,684 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-12 05:16:16,685 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-18 05:15:29,018 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:15:35,948 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:19:28,067 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:19:34,617 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:23:29,263 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:23:35,848 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:29:30,118 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:29:36,735 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:31:38,984 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:31:45,554 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:33:15,618 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:33:22,218 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:34:26,943 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:34:33,554 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:35:25,415 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:35:32,118 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:36:19,296 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:36:25,709 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:37:16,869 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:37:23,799 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:51:31,496 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:51:38,082 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:59:33,495 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 05:59:40,032 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 05:59:44,246 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-18 05:59:44,440 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-18 05:59:46,579 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-18 05:59:46,586 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-18 05:59:46,611 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-18 05:59:58,488 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-18 06:08:06,135 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 06:08:12,743 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 06:08:17,004 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-18 06:08:17,199 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-18 06:08:19,353 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-18 06:08:19,366 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-18 06:08:19,396 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-18 06:08:31,136 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-18 06:10:38,434 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 06:10:45,750 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 06:10:49,975 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-18 06:10:50,166 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-18 06:10:52,307 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-18 06:10:52,311 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-18 06:10:52,336 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-18 06:11:04,235 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-18 06:13:42,923 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 06:13:49,577 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 06:13:53,781 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-18 06:13:53,953 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-18 06:13:56,103 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-18 06:13:56,110 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-18 06:13:56,136 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-18 06:14:08,350 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-18 06:17:45,930 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 06:17:52,871 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 06:17:57,088 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-18 06:17:57,293 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-18 06:17:59,434 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-18 06:17:59,440 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-18 06:17:59,460 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-18 06:18:12,337 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-18 06:22:25,006 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 06:22:31,634 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 06:22:35,823 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-18 06:22:36,012 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-18 06:22:38,131 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-18 06:22:38,143 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-18 06:22:38,162 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-18 06:22:49,773 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
+2023-01-18 06:23:37,946 [main] DEBUG FreshiiWebApplication - Debug logging has Started 
+2023-01-18 06:23:44,512 [main] DEBUG FreshiiWebApplication - Opening base URL - in Chrome
+2023-01-18 06:23:48,735 [main] INFO FreshiiWebApplication - Started FWA_036
+2023-01-18 06:23:48,907 [main] INFO FreshiiWebApplication - Sending Postal Code
+2023-01-18 06:23:51,045 [main] INFO FreshiiWebApplication - Landed on home page
+2023-01-18 06:23:51,055 [main] INFO FreshiiWebApplication - Trying to find element
+2023-01-18 06:23:51,082 [main] INFO FreshiiWebApplication - User Profile Element found
+2023-01-18 06:24:03,687 [main] INFO FreshiiWebApplication - Item Has Been added To Cart
